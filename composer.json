@@ -41,6 +41,7 @@
         "maatwebsite/excel": "3.1.*",
         "misterphilip/maintenance-mode": "2.0.*",
         "monooso/unobserve": "1.0.*",
+        "phpoffice/phpspreadsheet": "^1.10",
         "plank/laravel-mediable": "3.0.*",
         "santigarcor/laratrust": "5.2.*",
         "simshaun/recurr": "4.0.*",
